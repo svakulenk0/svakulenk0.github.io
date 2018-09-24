@@ -5,7 +5,7 @@ tagline: ""
 ---
 {% include JB/setup %}
 
-<div style="display:block;text-align:left"><a href="./img/sv.jpg" imageanchor="1"><img src="https://sites.google.com/site/svitlanv/home/svitlana-vakulenko.jpg" border="0"></a></div>
+<div style="display:block;text-align:left"><a href="./assets/sv.jpg" imageanchor="1"><img src="https://sites.google.com/site/svitlanv/home/svitlana-vakulenko.jpg" border="0"></a></div>
 
 <strong>PhD</strong> student in <strong>TU Wien</strong><br>
 supervised by <a href="http://polleres.net" target="_blank">Axel Polleres</a> and <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a><br>
