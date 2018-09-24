@@ -24,10 +24,10 @@ The later is particularly important for dialogue systems that need to correctly 
 
 
 ![](/assets/iswc18.png)
-*Illustration by [Zvisno](https://twitter.com/zvisno) (c)*
+<div style="text-align: right"> *Illustration by [Zvisno](https://twitter.com/zvisno) (c)* </div>
 
 
-To study these two questions we cast semantic coherence measurement task as a classification problem with the learning objective to distinguish real (mostly) coherent dialogues from artificially generated dialogues incoherent by design. Intuitively, the classifier shall be trained to assign a higher score to the coherent dialogues and a lower score to the incoherent (corrupted) dialogues.
+To study these two questions we cast semantic coherence measurement task as a classification problem with the learning objective to distinguish real (mostly coherent) dialogues from artificially generated dialogues, which were made incoherent by design. Intuitively, the classifier is trained to assign a higher score to the coherent dialogues and a lower score to the incoherent (corrupted) dialogues, so that the output score reflects the degree of coherence in the dialogue.
 
 We extended the [Ubuntu Dialogue Corpus](https://github.com/rkadlec/ubuntu-ranking-dataset-creator) by generating negative samples to provide a benchmark for evaluation of different approaches. We implement and evaluate three approaches using this benchmark. Two of them are based on a neural network classifier (Convolutional Neural Network) using word or, alternatively, Knowledge Graph embeddings; and the other one is using the original Knowledge Graph (Wikidata+DBpedia converted to HDT) to induce and analyse a semantic subgraph representation for each of the dialogues.
 
