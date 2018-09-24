@@ -20,16 +20,16 @@ It is relatively easy to tell the three conversations apart. We hypothesize that
     1. What are the relations between the words in a dialogue (or rather the concepts they represent) that make a dialogue semantically coherent, i.e. making sense? and
     2. Can we use available knowledge resources (e.g. a knowledge graph) to tell whether a dialogue makes sense?
 
-The later is particularly important for dialogue systems that need to correctly interpret (model) the dialogue context and produce meaningful responses.
+The later is particularly important for dialogue systems that need to correctly interpret the dialogue context and produce meaningful responses.
 
 
 ![](/assets/iswc18.png)
-<div style="text-align: right"> *Illustration by [Zvisno](https://twitter.com/zvisno) (c)* </div>
+<div style="text-align: right"> <bf>Illustration by <a href="https://twitter.com/zvisno" target="_blank">zvisno</a>(c)</bf> </div>
 
 
 To study these two questions we cast semantic coherence measurement task as a classification problem with the learning objective to distinguish real (mostly coherent) dialogues from artificially generated dialogues, which were made incoherent by design. Intuitively, the classifier is trained to assign a higher score to the coherent dialogues and a lower score to the incoherent (corrupted) dialogues, so that the output score reflects the degree of coherence in the dialogue.
 
-We extended the [Ubuntu Dialogue Corpus](https://github.com/rkadlec/ubuntu-ranking-dataset-creator) by generating negative samples to provide a benchmark for evaluation of different approaches. We implement and evaluate three approaches using this benchmark. Two of them are based on a neural network classifier (Convolutional Neural Network) using word or, alternatively, Knowledge Graph embeddings; and the other one is using the original Knowledge Graph (Wikidata+DBpedia converted to HDT) to induce and analyse a semantic subgraph representation for each of the dialogues.
+We extended the [Ubuntu Dialogue Corpus](https://github.com/rkadlec/ubuntu-ranking-dataset-creator) by generating negative samples to provide an evaluation benchmark. We implement and evaluate three different approaches using this benchmark. Two of them are based on a neural network classifier (Convolutional Neural Network) using word or, alternatively, Knowledge Graph embeddings; and the other one is using the original Knowledge Graph (Wikidata+DBpedia converted to HDT) to induce and analyse a semantic subgraph representation for each of the dialogues.
 
 
 ## Resources
