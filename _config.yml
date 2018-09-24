@@ -8,14 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Svitlana Vakulenko's Web Page
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Svitlana Vakulenko
+  email : svitlana.vakulenko@wu.ac.at
+  github : svakulenk0
+  twitter : svakulenk0
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
