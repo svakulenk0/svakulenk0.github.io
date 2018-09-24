@@ -24,7 +24,7 @@ Vienna University of Economics and Business<br>
 
 
 <br>
-My primary research interest relate to Natural Language Understanding with the application to Information Retrieval, in particular <b>Conversational Search</b> in semi-structured data sources, such as Knowledge Graphs, Open Data portals and Social Media news streams.
+My primary research interest relate to Natural Language Understanding with the application to Information Retrieval, and in particular <b>Conversational Search</b> in semi-structured data sources, such as Knowledge Graphs, Open Data portals and Social Media news streams.
 
 
 
