@@ -12,7 +12,7 @@ supervised by <a href="http://polleres.net" target="_blank">Axel Polleres</a> an
 <br>
 Researcher in Institute for Information Business<br>
 Vienna University of Economics and Business<br>
-<span>1020 Vienna<br>
+<span>1020 Vienna Austria<br>
 
 
 <font face="Candara"><b>Email:</b> </font><span>svitlana dot vakulenko<span> at </span>wu dot ac<span> dot </span>at<br>
