@@ -19,7 +19,7 @@ Vienna University of Economics and Business<br>
 
 
 <br>
-<a href="./pdfs/CV_Vakulenko.pdf" target="_blank">CV</a> <a href="https://github.com/svakulenk0" target="_blank">GitHub</a> <a href="https://twitter.com/svakulenk0" target="_blank">Twitter</a>
+<a href="./pdfs/CV_Vakulenko.pdf" target="_blank">CV</a> <a href="https://github.com/svakulenk0" target="_blank">GitHub</a> <a href="https://twitter.com/svakulenk0" target="_blank">Twitter</a> <a href="https://www.linkedin.com/in/svitlanavakulenko" target="_blank">LinkedIn</a>
 <br>
 
 
