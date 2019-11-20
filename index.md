@@ -7,7 +7,7 @@ tagline: ""
 
 <div style="display:block;text-align:left"><a href="./assets/sv.jpg" imageanchor="1"><img src="https://sites.google.com/site/svitlanv/home/svitlana-vakulenko.jpg" border="0"></a></div>
 
-Postdoc researcher in Information and Language Processing Systems (ILPS) group<br>
+<strong>Postdoc</strong> researcher in Information and Language Processing Systems (<strong>ILPS</strong>) group<br>
 Informatics Institute of the University of Amsterdam<br>
 <span>1098 XH Amsterdam, The Netherlands<br>
 
