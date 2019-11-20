@@ -7,15 +7,12 @@ tagline: ""
 
 <div style="display:block;text-align:left"><a href="./assets/sv.jpg" imageanchor="1"><img src="https://sites.google.com/site/svitlanv/home/svitlana-vakulenko.jpg" border="0"></a></div>
 
-<strong>PhD</strong> student in <strong>TU Wien</strong><br>
-supervised by <a href="http://polleres.net" target="_blank">Axel Polleres</a> and <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a><br>
-<br>
-Researcher in Institute for Information Business<br>
-Vienna University of Economics and Business<br>
-<span>1020 Vienna Austria<br>
+Postdoc researcher in Information and Language Processing Systems (ILPS) group<br>
+Informatics Institute of the University of Amsterdam<br>
+<span>1098 XH Amsterdam, The Netherlands<br>
 
 
-<font face="Candara"><b>Email:</b> </font><span>svitlana dot vakulenko<span> at </span>wu dot ac<span> dot </span>at<br>
+<font face="Candara"><b>Email:</b> </font><span>s dot vakulenko<span> at </span>uva<span> dot </span>nl<br>
 
 
 <br>
