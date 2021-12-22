@@ -7,12 +7,10 @@ tagline: ""
 
 <div style="display:block;text-align:left"><a href="./assets/sv.jpg" imageanchor="1"><img src="https://sites.google.com/site/svitlanv/home/svitlana-vakulenko.jpg" border="0"></a></div>
 
-<strong>Postdoc</strong> researcher in Information and Language Processing Systems (<strong>ILPS</strong>) group<br>
-Informatics Institute of the University of Amsterdam<br>
-<span>1098 XH Amsterdam, The Netherlands<br>
+<strong>Machine Learning Scientist</strong> in Alexa AI - Web Information<br>
+Amazon, Barcelona, Spain<br>
 
-
-<font face="Candara"><b>Email:</b> </font><span>s dot vakulenko<span> at </span>uva<span> dot </span>nl<br>
+<font face="Candara"><b>Email:</b> </font><span>svvakul<span> at </span>amazon<span> dot </span>com<br>
 
 
 <br>
